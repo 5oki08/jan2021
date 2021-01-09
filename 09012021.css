@@ -1,0 +1,76 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	max-width: 980px;
+	font-size: 1.4em;
+	font-family: 'Dosis', sans-serif;
+	margin: 0 auto;
+	background-color: #000;
+	color: #fff;
+}
+
+/*home*/
+.toper {
+	margin-top: 0.2em;
+}
+hr {
+	background-color: #fff;
+}
+.navigate {}
+.nav-link {}
+.nav-link:hover {
+	background-color: #fff;
+	border-radius: 12px;
+}
+.introductory {
+	letter-spacing: 0.2px;
+}
+.briefing {}
+/**/
+.bottomheader {
+	border-top: 3px dotted;
+	border-bottom: 3px dotted;
+	border-left: 3px dashed;
+	border-right: 3px dashed;
+	padding: 1.4em;
+}
+.bottomcol {}
+.bottomcol:hover {
+	color: #51C1A8;
+}
+
+/*sign*/
+#submit {
+	border: none;
+	background-color: #43d169;
+}
+#submit:hover {
+	background-color: #09bd39;
+	text-transform: uppercase;
+}
+#reset {
+	border: none;
+	background-color: #d63636;
+}
+#reset:hover {
+	background-color: #bd0909;
+	text-transform: uppercase;
+}
+
+/*about*/
+/*options*/
+td {
+	border-collapse: separate;
+}
+th {}
+th:hover {
+	background-color: #46718C;
+}
+tbody {}
+tbody:hover {
+	background-color: #63B0A1;
+	color: #1C9D21;
+}
+
+/*sonydigital*/
