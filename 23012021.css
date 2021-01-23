@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	max-width: 1080px;
+	margin: 0 auto;
+}
+
+#header {
+	margin-top: 10px;
+}
+#header1, #header2 {
+	max-width: 540px;
+	margin: 0 auto;
+	border-radius: 5px 5px 15px 15px;
+}
+#header3 {
+	border-radius: 5px;
+}
+#header1 {
+	background-color: yellow;
+}
+#header2 {
+	background-color: green;
+}
+#header3 {
+	background-color: red;
+}
+#header1:hover {
+	background-color: #b81e99;
+}
+#header2:hover {
+	background-color: #b5c6ef;
+}
+#header3:hover {
+	background-color: #f0d28b;
+}
+.w3-content {
+	max-width:657px;
+	margin: 0 auto;
+}
