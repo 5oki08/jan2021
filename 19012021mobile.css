@@ -1,0 +1,147 @@
+@media only screen and (max-width: 600px) {
+  * {
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Yusei Magic', sans-serif;
+	max-width: 1120px;
+	margin: 0 auto;
+}
+
+/*all navigation*/
+#div1 {}
+#topanav1 {}
+#topanav2 {}
+.navbar {
+	display: inline-block;
+}
+#navimg {
+	width: 90px;
+}
+.top-link {
+	text-align: center;
+	padding-left: 2.0em;
+	padding-right: 2.0em;
+	padding-top: 0.7em;
+	padding-bottom: 0.7em;;
+}
+.top-link:hover {
+	background-color: #64d104;
+	color: #fff;
+}
+.nav-link {
+	color: #000;
+	width: 30rem;
+	text-align: center;
+	padding: 1.3em;
+}
+.nav-link:hover {
+	text-decoration: none;
+	color: #fff;
+	border: 2px solid #fff;
+}
+#allpagefooter {
+	border: 2px solid green;
+	border-left: none;
+	border-right: none;
+	background-color: #67b812;
+}
+#footercolumns01 {
+	border: none;
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+}
+#footercolumns02 {
+	border: none;
+	border-bottom: 2px solid;
+}
+#footercolumns03 {
+	border: none;
+	border-bottom: 2px solid;
+}
+#socialmedia {
+	margin-top: 1.5em;
+	border-bottom: 2px solid;
+	padding: 2em;
+}
+#footernav1 {}
+#footernavbar {
+	margin-left: 3em;
+	padding: 0.4em;
+}
+.footer-link {
+	text-align: center;
+	text-decoration: none;
+}
+.footer-link:hover {}
+
+
+/*login page*/
+#loginsection {}
+#dividercol1 {}
+#dividercol2 {}
+#loginform {
+	padding: 3.5rem;
+}
+#email1 {}
+#password1 {}
+#submitlogins {
+	padding-left: 2.5rem;
+	padding-right: 2.5rem;
+}
+#resetlogins {
+	padding-left: 2.5rem;
+	padding-right: 2.5rem;
+}
+.forgotpass-link {}
+
+
+/*signup page*/
+#signupsection {}
+#signupform {
+	padding: 2rem;
+}
+#signupinput {
+	width: 28rem;
+	border: 2px solid;
+}
+
+
+
+/*forgot password*/
+#resetEmail1 {
+	width: 100%;
+}
+
+
+
+/*home page*/
+
+
+
+/*about*/
+
+
+
+/*contact*/
+#contactquerrysend {
+	margin-top: 1.5em;
+}
+
+
+/*FAQs*/
+
+
+
+
+/*blog*/
+.blog-link {}
+.blog-link:hover {}
+.blog-img {
+	margin-left: 45px;
+}
+
+
+
+/*mwisho*/
+}
